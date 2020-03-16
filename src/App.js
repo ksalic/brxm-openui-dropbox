@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is an <code>Open UI Plugin</code> and should be added in the context of BRX
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://documentation.bloomreach.com/library/concepts/open-ui/configure-a-document-field-extension.html"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Configure a Document Field Extension
         </a>
       </header>
     </div>
