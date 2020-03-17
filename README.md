@@ -1,8 +1,8 @@
-#BrXM OpenUI Dropbox Plugin
+# BrXM OpenUI Dropbox Plugin
 
-This is a BrXM integration with dropbox.
+This is a BrXM integration with dropbox. todo
 
-## Install
+## Install (todo)
 
 1. In brxm open the console and navigate to the node:
 2. Import the following yaml configuration:
