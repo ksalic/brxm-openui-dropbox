@@ -1,3 +1,18 @@
+#BrXM OpenUI Dropbox Plugin
+
+This is a BrXM integration with dropbox.
+
+## Install
+
+1. In brxm open the console and navigate to the node:
+2. Import the following yaml configuration:
+````
+code
+````
+3. Go to an existing document type
+4. Add a new OpenUiString field
+5. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
