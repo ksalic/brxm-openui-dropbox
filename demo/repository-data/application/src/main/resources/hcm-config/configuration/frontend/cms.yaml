@@ -1,0 +1,9 @@
+definitions:
+  config:
+    /hippo:configuration/hippo:frontend/cms/ui-extensions/dropbox:
+      jcr:primaryType: frontend:uiExtension
+      frontend:config: '{ "API_KEY": "test123", "multiselect": true}'
+      frontend:displayName: Dropbox
+      frontend:extensionPoint: document.field
+      frontend:initialHeightInPixels: 500
+      frontend:url: http://localhost:3000/documentfield
